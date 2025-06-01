@@ -1,4 +1,4 @@
-# Aspect-based-sentiment-Analysis-ABSA-
+# Repository Name - Aspect-based-sentiment-Analysis-ABSA-
 # Project Title - A Novel Hybrid Deep Learning Model for Aspect-Based Sentiment Analysis
 # Description
 This project presents a hybrid deep learning approach to perform aspect-based sentiment analysis using IMDB movie reviews. The model combines LSTM networks and other neural network components to accurately classify sentiment polarity with respect to specific aspects in textual data.
