@@ -26,10 +26,10 @@ This architecture enables the model to understand both the global sentiment and 
 
 
 ## Usage
--> The notebook loads and preprocesses the IMDB dataset and laptop dataset.
--> Sentiment labels are encoded and the data is split into training and testing sets.
--> A hybrid model using LSTM and GAT is trained to classify overall sentence sentiments and corresponding to particular given aspect in sentence respectively.
--> Evaluation metrics and outputs are displayed in the notebook for both the components.
+- The notebook loads and preprocesses the IMDB dataset and laptop dataset.
+- Sentiment labels are encoded and the data is split into training and testing sets.
+- A hybrid model using LSTM and GAT is trained to classify overall sentence sentiments and corresponding to particular given aspect in sentence respectively.
+- Evaluation metrics and outputs are displayed in the notebook for both the components.
 
 
 ## Features
@@ -40,17 +40,17 @@ This architecture enables the model to understand both the global sentiment and 
 
 
 ## Technologies Used
-> Python
-> TensorFlow / Keras
-> Pandas
-> NumPy
-> Scikit-learn
-> Jupyter Notebook
-> Google Translate
+- Python
+- TensorFlow / Keras
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Google Translate
 
 ## Configuration
-1> Dataset used: IMDB Movie Reviews and Laptop dataset
-2> Ensure the dataset is placed in the correct input path (/kaggle/input/imdb-dataset-of-50k-movie-reviews/IMDB Dataset.csv) for LSTM component or (https://www.kaggle.com/datasets/priyankashakya18/laptop-dataset) for GAT component -update the path accordingly in the notebook
+1. Dataset used: IMDB Movie Reviews and Laptop dataset
+2. Ensure the dataset is placed in the correct input path (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for LSTM component or (https://www.kaggle.com/datasets/priyankashakya18/laptop-dataset) for GAT component -update the path accordingly in the notebook
 
 
 ## Contributing
@@ -61,14 +61,14 @@ This architecture enables the model to understand both the global sentiment and 
 5. Create a Pull Request
 
 ##  Authors or Acknowledgements
->> Original model implementation and dataset usage by the notebook author.
->> Thanks to Kaggle for hosting the dataset and execution environment.
+- Original model implementation and dataset usage by the notebook author.
+- Thanks to Kaggle for hosting the dataset and execution environment.
 
 ## Result
 source code - *https://github.com/Priyanka-Shakya* 
 - Accuracy: 94.22%
 
 ## Contact Information
-**For any questions, feel free to reach out or open an issue!*https://github.com/Priyanka-Shakya*
+**For any questions, feel free to reach out or open an issue!*https://github.com/Priyanka-Shakya* **
 
 
